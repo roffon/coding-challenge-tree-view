@@ -1,5 +1,5 @@
 <template>
-    <div class="main-outer">
+    <div class="normal-outer">
         <welcome-comp />
         <challenge-info-comp />
     </div>
@@ -12,8 +12,4 @@ import ChallengeInfoComp from "@/components/ChallengeInfoComp.vue";
 </script>
 
 <style scoped lang="scss">
-.main-outer {
-    max-width: 1250px;
-    margin: 0 auto;
-}
 </style>

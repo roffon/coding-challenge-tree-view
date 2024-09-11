@@ -37,7 +37,7 @@
             </li>
         </ul>
         
-        <v-btn color="#60b083" height="60" variant="outlined">
+        <v-btn color="#60b083" height="60" variant="outlined" to="/i-totally-know-how-to-solve-this">
             <div>
                 <h3>Bring it on!</h3>
                 <p>Totally a normal sized button</p>
