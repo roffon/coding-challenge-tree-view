@@ -3,7 +3,7 @@
         <div class="logo-container">
             <img src="/src/assets/logo.png" />
         </div>
-        <div class="d-flex flex-column justify-center ga-3 w-33 totally-not-improvised-welcome-text-container">
+        <div class="d-flex flex-column justify-center ga-3 totally-not-improvised-welcome-text-container">
             <h1><span>Welcome</span>, dear coder!</h1>
             <h3>
                 We, the <span class="font-weight-bold">ROFFON</span> <span class="color-change">Frontend Development
@@ -37,7 +37,7 @@
 
 .logo-container {
     max-width: 500px;
-    height: 500px;
+    height: 450px;
     animation: floatAnimation 6s ease-in-out infinite;
     img {
         width: 100%;
@@ -47,7 +47,6 @@
 
 .totally-not-improvised-welcome-text-container {
     padding-bottom: 3rem;
-    max-width: 850px;
     h1 {
         font-size: 2.5rem;
         border-bottom: 2px solid #60b083;
