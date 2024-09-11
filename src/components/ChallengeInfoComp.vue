@@ -6,8 +6,8 @@
         </h1>
         
         <h3 class="mt-8">
-            In this challenge you will need to build a <span class="highlited">responsive tree-like</span> structure using
-            recursivity and advanced <span class="vue-color">Vue 3</span> principles. Completing this assignment will prove your
+            In this challenge you will be tasked to build a <span class="highlited">responsive tree-like</span> structure using
+            recursivity and advanced <span class="highlited">Vue 3</span> principles. Completing this assignment will prove your
             Javascript knowledge and your proficiency using web development tools and technologies.
         </h3>
         
@@ -28,7 +28,11 @@
                 Your component should be somewhat efficient and the rendering as fast as possible.
             </li>
             <li>
-                You will be provided with the individual vue components needed to display the objects
+                You will be provided with the individual vue components needed to display the objects.
+            </li>
+            <li>
+                Your result should look 98% like the design you were provided, containing the lines
+                drawn between the objects, and everything.
             </li>
             <li>
                 To start working on the challenge go ahead and <v-icon>mdi-silverware-fork</v-icon> fork
