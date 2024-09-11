@@ -3,6 +3,21 @@
 // ..
 
 .fine-print-text {
-  font-size: 0.7rem !important;
-  color: #7a7a7a;
+    font-size: 0.7rem !important;
+    color: #7a7a7a;
+}
+
+.title {
+    font-size: 2rem;
+    color: #60b083;
+    font-weight: bold;
+}
+
+.vue-color {
+    color: #60b083;
+}
+
+.highlited {
+    color: #60b083;
+    font-weight: bold;
 }
