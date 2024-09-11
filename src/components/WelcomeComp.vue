@@ -7,7 +7,7 @@
             <h1><span>Welcome</span>, dear coder!</h1>
             <h3>
                 We, the <span class="font-weight-bold">ROFFON</span> <span class="color-change">Frontend Development
-                Department</span> wish to welcome you to our Tree View coding hiring challenge.
+                Team</span>, wish to welcome you to our Tree View coding hiring challenge.
             </h3>
             <p>
                 Below this totally <i>not</i> improvised welcome component you'll find all the details
