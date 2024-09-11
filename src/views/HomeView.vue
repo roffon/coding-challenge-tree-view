@@ -1,9 +1,12 @@
+<template>
+  <welcome-comp />
+</template>
+
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+
+import WelcomeComp from "@/components/WelcomeComp.vue";
 </script>
 
-<template>
-  <main>
-    <TheWelcome />
-  </main>
-</template>
+<style scoped lang="scss">
+
+</style>
