@@ -1,5 +1,5 @@
 <template>
-  <welcome-comp />
+    <welcome-comp />
 </template>
 
 <script setup>

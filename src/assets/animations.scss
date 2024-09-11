@@ -1,0 +1,20 @@
+@keyframes colorAnimation {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+@keyframes floatAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px); /* Moves element upwards */
+  }
+  100% {
+    transform: translateY(0); /* Returns to original position */
+  }
+}
