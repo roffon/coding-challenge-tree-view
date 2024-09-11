@@ -38,7 +38,7 @@
 .logo-container {
     max-width: 500px;
     height: 450px;
-    animation: floatAnimation 6s ease-in-out infinite;
+    animation: floatAnimation 5s ease-in-out infinite;
     img {
         width: 100%;
         height: auto;
